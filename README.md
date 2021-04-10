@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames and books (mostly).
 - 🌱 I’m currently studying Informatic Engineering.
 - 💞️ I am also volunteering for the Technovation Girls Challenge.
-- 📫 How to reach me ...
+- 📫 You can reach me through LinkedIn.
 
 <!---
 princessane/princessane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
